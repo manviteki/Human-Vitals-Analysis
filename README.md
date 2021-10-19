@@ -1,5 +1,8 @@
 # Human-Vitals-Analysis
 
+## Introduction
+The undertaking here is to create a graphical user interface of the vital signs of a dummy patient and its analysis.
+
 ## Flow of work
 1) We get the data from our dummy patient with a selenium module for web automation and create a dataframe with pandas
 2) We clean the data
